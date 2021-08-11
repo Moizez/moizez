@@ -39,6 +39,8 @@
   
  
   ![Snake animation](https://github.com/moizez/moizez/blob/output/github-contribution-grid-snake.svg)
+   
+   <img src="https://komarev.com/ghpvc/?username=moizez&color=green" alt="luis-luciqm" /> 
  
 </div>
   
