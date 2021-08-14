@@ -1,7 +1,7 @@
 ## Olá! Eu sou Moisés Henrique
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistema - IFRN;
-- 🧑‍💻 Desenvolvedor web e mobile;
+- 💻 Desenvolvedor web e mobile;
 - 🔥 Apaixonado por programação, procurando sempre estar atualizado com as novas tecnologias do mercado.
 
  <div>
