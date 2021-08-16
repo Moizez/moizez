@@ -5,7 +5,7 @@
 - 🔥 Apaixonado por programação, procurando sempre estar atualizado com as novas tecnologias do mercado.
 
 ## Projetos
-- :iphone: bit.ly/palpiteirosapp
+- :iphone: [Palpiteiros](bit.ly/palpiteirosapp)
 
  <div>
   <a href="https://github.com/moizez">
