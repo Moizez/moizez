@@ -4,6 +4,9 @@
 - 💻 Desenvolvedor web e mobile;
 - 🔥 Apaixonado por programação, procurando sempre estar atualizado com as novas tecnologias do mercado.
 
+## Projetos
+- :iphone: 
+
  <div>
   <a href="https://github.com/moizez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moizez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
