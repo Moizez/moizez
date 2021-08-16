@@ -6,6 +6,8 @@
 
 ## Projetos
 - :iphone: [Palpiteiros](bit.ly/palpiteirosapp)
+- :iphone: [ProducerPoint](bit.ly/producerpointapp)
+- :iphone: [MilkPoint](bit.ly/milkpointapp)
 
  <div>
   <a href="https://github.com/moizez">
