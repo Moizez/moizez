@@ -4,11 +4,10 @@
 - 💻 Desenvolvedor web e mobile;
 - 🔥 Apaixonado por programação, procurando sempre estar atualizado com as novas tecnologias do mercado.
 
-## Projetos
+## Projetos Publicados
 - :iphone: [Palpiteiros](https://bit.ly/palpiteirosapp)
-- :iphone: [ProducerPoint](bit.ly/producerpointapp)
-- :iphone: [MilkPoint](bit.ly/milkpointapp)
-- <a href=“bit.ly/palpiteirosapp“>Palpiteiros</a>
+- :iphone: [ProducerPoint](https://bit.ly/producerpointapp)
+- :iphone: [MilkPoint](https://bit.ly/milkpointapp)
 
  <div>
   <a href="https://github.com/moizez">
@@ -16,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizez&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ## Conhecimentos
+ ## Conhecimentos
   
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
