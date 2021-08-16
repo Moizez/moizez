@@ -5,9 +5,10 @@
 - 🔥 Apaixonado por programação, procurando sempre estar atualizado com as novas tecnologias do mercado.
 
 ## Projetos
-- :iphone: [Palpiteiros](bit.ly/palpiteirosapp)
+- :iphone: [Palpiteiros](https://bit.ly/palpiteirosapp)
 - :iphone: [ProducerPoint](bit.ly/producerpointapp)
 - :iphone: [MilkPoint](bit.ly/milkpointapp)
+- <a href=“bit.ly/palpiteirosapp“>Palpiteiros</a>
 
  <div>
   <a href="https://github.com/moizez">
