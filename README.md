@@ -20,6 +20,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
+   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="BT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
