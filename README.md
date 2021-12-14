@@ -43,7 +43,7 @@
    
    ##
       
-   <img src="https://komarev.com/ghpvc/?username=moizez&color=green" alt="" /> 
+   <img src="https://komarev.com/ghpvc/?username=moizez&color=green" alt="quantidade de visualizações" /> 
  
 </div>
   
