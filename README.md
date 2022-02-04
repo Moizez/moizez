@@ -2,7 +2,6 @@
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistema - IFRN;
 - 💻 Desenvolvedor web e mobile;
-- 🔥 Apaixonado por programação, procurando sempre estar atualizado com as novas tecnologias do mercado.
 
 ## Projetos Publicados
 - :iphone: [Palpiteiros](https://bit.ly/palpiteirosapp)
