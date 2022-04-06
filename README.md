@@ -9,7 +9,7 @@
 - :iphone: [MilkPoint](https://bit.ly/milkpointapp)
 
  <div>
-  <a href="https://github.com/moizez">
+  <a href="https://github.com/Moizez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moizez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizez&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
