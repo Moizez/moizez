@@ -27,10 +27,7 @@
    <img align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> 
-  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg">
     <img align="center" alt="Mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
-  <img align="center" alt="Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
    <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
