@@ -8,8 +8,7 @@
 - :iphone: [ProducerPoint](https://bit.ly/producerpointapp)
 - :iphone: [MilkPoint](https://bit.ly/milkpointapp)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moizez&layout=compact&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moizez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moizez&show_icons=true&theme=tokyonight)
 
  ## Conhecimentos
   
