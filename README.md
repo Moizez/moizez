@@ -8,12 +8,9 @@
 - :iphone: [ProducerPoint](https://bit.ly/producerpointapp)
 - :iphone: [MilkPoint](https://bit.ly/milkpointapp)
 
- <div>
-  <a href="https://github.com/Moizez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moizez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moizez&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moizez&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moizez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
  ## Conhecimentos
   
   <div style="display: inline_block"><br>
