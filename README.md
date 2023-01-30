@@ -4,12 +4,12 @@
 - 💻 Desenvolvedor web e mobile;
 
 ## Projetos Publicados
-### Mobile:
+#### Mobile:
 - :iphone: [Palpiteiros](https://bit.ly/palpiteirosapp)
 - :iphone: [ProducerPoint](https://bit.ly/producerpointapp)
 - :iphone: [MilkPoint](https://bit.ly/milkpointapp)
 
-### Web:
+#### Web:
 - 🖥️ https://www2.ale.com.br/abastecendoobandodeloucos/
 - 🖥️ https://leveenergia.com.br/
 - 🖥️ https://fiscalcripto.com.br/
