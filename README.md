@@ -4,9 +4,15 @@
 - 💻 Desenvolvedor web e mobile;
 
 ## Projetos Publicados
+### Mobile:
 - :iphone: [Palpiteiros](https://bit.ly/palpiteirosapp)
 - :iphone: [ProducerPoint](https://bit.ly/producerpointapp)
 - :iphone: [MilkPoint](https://bit.ly/milkpointapp)
+
+### Web:
+- 🖥️ https://www2.ale.com.br/abastecendoobandodeloucos/
+- 🖥️ https://leveenergia.com.br/
+- 🖥️ https://fiscalcripto.com.br/
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moizez&show_icons=true&theme=tokyonight)
 
