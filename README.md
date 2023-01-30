@@ -8,6 +8,7 @@
 - :iphone: [Palpiteiros](https://bit.ly/palpiteirosapp)
 - :iphone: [ProducerPoint](https://bit.ly/producerpointapp)
 - :iphone: [MilkPoint](https://bit.ly/milkpointapp)
+- :iphone: [BluePortfolio](https://bit.ly/appblueportfolio)
 
 #### Web:
 - 🖥️ https://www2.ale.com.br/abastecendoobandodeloucos/
