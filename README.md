@@ -8,7 +8,7 @@
 <p align="center">Software Engineer · Front-end e Mobile · 7 anos entregando produto · Brasil</p>
 
 <p align="center">
-<a href="https://dam-code.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+<a href="https://www.damcode.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
 <a href="https://www.linkedin.com/in/moizezhenrique/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/damcode_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:moizezhenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -31,17 +31,17 @@ Hoje sou cooperado na Coopersystem e mantenho produtos próprios — do backend 
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://play.google.com/store/apps/details?id=com.damcode.lembro&hl=pt_BR"><img src="https://dam-code.vercel.app/content/lembro/thumbnail.png" alt="Página do Lembrô na Google Play, com as telas de lembrete por etiqueta, registro por aproximação e acompanhamento por calendário" width="100%" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.damcode.lembro&hl=pt_BR"><img src="https://www.damcode.com.br/content/lembro/thumbnail.png" alt="Página do Lembrô na Google Play, com as telas de lembrete por etiqueta, registro por aproximação e acompanhamento por calendário" width="100%" /></a>
 <br /><b>Lembrô</b>
 <br /><sub>React Native · Expo · TypeScript +3</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://palpiteiros.uk/"><img src="https://dam-code.vercel.app/content/palpiteiros-web/thumbnail.png" alt="Página inicial do Palpiteiros, com a chamada Seu bolão, sua resenha, seu pódio e um cartão de partida encerrada" width="100%" /></a>
+<a href="https://palpiteiros.uk/"><img src="https://www.damcode.com.br/content/palpiteiros-web/thumbnail.png" alt="Página inicial do Palpiteiros, com a chamada Seu bolão, sua resenha, seu pódio e um cartão de partida encerrada" width="100%" /></a>
 <br /><b>Palpiteiros | Web</b>
 <br /><sub>Next.js · React · TypeScript +4</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://ibarragem.vercel.app/"><img src="https://dam-code.vercel.app/content/ibarragem/thumbnail.png" alt="Página do aplicativo iBarragem na Google Play, com as telas de início, histórico de leituras, informações da região e ajustes" width="100%" /></a>
+<a href="https://ibarragem.vercel.app/"><img src="https://www.damcode.com.br/content/ibarragem/thumbnail.png" alt="Página do aplicativo iBarragem na Google Play, com as telas de início, histórico de leituras, informações da região e ajustes" width="100%" /></a>
 <br /><b>iBarragem</b>
 <br /><sub>React Native · Expo · TypeScript +5</sub>
 </td>
@@ -51,24 +51,24 @@ Hoje sou cooperado na Coopersystem e mantenho produtos próprios — do backend 
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://play.google.com/store/apps/details?id=com.damcode.betania&hl=pt_BR"><img src="https://dam-code.vercel.app/content/betania/thumbnail.png" alt="Página do aplicativo Betania na Google Play, com as telas da assistente, lista de partidas e análise de confronto" width="100%" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.damcode.betania&hl=pt_BR"><img src="https://www.damcode.com.br/content/betania/thumbnail.png" alt="Página do aplicativo Betania na Google Play, com as telas da assistente, lista de partidas e análise de confronto" width="100%" /></a>
 <br /><b>Betania</b>
 <br /><sub>React Native · Expo · TypeScript +3</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://play.google.com/store/apps/details?id=com.moizez.apos_os_creditos"><img src="https://dam-code.vercel.app/content/apososcreditos/thumbnail.png" alt="Página do aplicativo Após os Créditos na Google Play, com as telas de match de humor, listas por IA e catálogo de filmes" width="100%" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.moizez.apos_os_creditos"><img src="https://www.damcode.com.br/content/apososcreditos/thumbnail.png" alt="Página do aplicativo Após os Créditos na Google Play, com as telas de match de humor, listas por IA e catálogo de filmes" width="100%" /></a>
 <br /><b>Após os Créditos</b>
 <br /><sub>React Native · Expo · TypeScript +2</sub>
 </td>
 <td align="center" width="33%">
-<a href="https://apps.apple.com/br/app/multi-eventos/id6726993948"><img src="https://dam-code.vercel.app/content/coopersystem-multieventos-app/thumbnail.png" alt="Página do aplicativo Multi Eventos na App Store, com as telas de acesso, programação e detalhes do evento" width="100%" /></a>
+<a href="https://apps.apple.com/br/app/multi-eventos/id6726993948"><img src="https://www.damcode.com.br/content/coopersystem-multieventos-app/thumbnail.png" alt="Página do aplicativo Multi Eventos na App Store, com as telas de acesso, programação e detalhes do evento" width="100%" /></a>
 <br /><b>Multieventos | App</b>
 <br /><sub>React Native · Expo · TypeScript</sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><a href="https://dam-code.vercel.app"><b>Ver o portfólio completo →</b></a></p>
+<p align="center"><a href="https://www.damcode.com.br"><b>Ver o portfólio completo →</b></a></p>
 
 <sub>Cada projeto tem página própria, com telas, o papel que tive e as decisões.</sub>
 
@@ -139,7 +139,7 @@ Currently a member-developer at Coopersystem, and shipping my own products — b
 | [Após os Créditos](https://play.google.com/store/apps/details?id=com.moizez.apos_os_creditos) | Google Play | React Native · Expo · TypeScript +2 |
 | [Multieventos \| App](https://apps.apple.com/br/app/multi-eventos/id6726993948) | App Store | React Native · Expo · TypeScript |
 
-Full portfolio: [dam-code.vercel.app](https://dam-code.vercel.app) · [LinkedIn](https://www.linkedin.com/in/moizezhenrique/) · [Email](mailto:moizezhenrique@gmail.com)
+Full portfolio: [www.damcode.com.br](https://www.damcode.com.br) · [LinkedIn](https://www.linkedin.com/in/moizezhenrique/) · [Email](mailto:moizezhenrique@gmail.com)
 
 </details>
 
